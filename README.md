@@ -1,6 +1,6 @@
 ### 嗨，我的朋友，请看这里。👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuyucode&show_icons=true&icon_color=1F0&text_color=EEEEEE&bg_color=1E1E1E&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuyucode&show_icons=true&icon_color=1F0&text_color=EEEEEE&hide_title=true" />
 
 Here are some ideas to get you started:
 
